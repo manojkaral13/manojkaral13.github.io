@@ -1,0 +1,77 @@
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .wp-block-columns {
+  margin-bottom: 0;
+}
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lora-1-col-text .wp-block-group__inner-container {
+  padding: 3.25em;
+}
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-2-col-text-image,
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-2-col-narrow-text-image,
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-2-col-text-narrow-image {
+  display: flex;
+  align-items: stretch;
+}
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-2-col-text-image .wp-block-column:first-child,
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-2-col-narrow-text-image .wp-block-column:first-child,
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-2-col-text-narrow-image .wp-block-column:first-child {
+  padding: 6rem 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-2-col-text-image .wp-block-image,
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-2-col-narrow-text-image .wp-block-image,
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-2-col-text-narrow-image .wp-block-image {
+  margin-bottom: 0;
+  height: 100%;
+}
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-2-col-text-image .wp-block-image img,
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-2-col-narrow-text-image .wp-block-image img,
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-2-col-text-narrow-image .wp-block-image img {
+  object-fit: cover;
+  height: 100%;
+  width: auto;
+}
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-3-col-text .wp-block-column {
+  padding: 5.5rem 2rem 3rem;
+}
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-4-col-badges .wp-block-column {
+  padding: 4rem 1rem;
+}
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-simple-heading {
+  padding-top: 4rem;
+  padding-bottom: 4rem;
+}
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-3-col-videos {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-table {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-table .tablepress .row-1 {
+  background-color: #00ADEF;
+  color: white;
+}
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-accordion {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-accordion.wp-block-getwid-accordion .wp-block-getwid-accordion__header-wrapper:first-child {
+  background-color: #00ADEF;
+  color: white;
+  border: none;
+}
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-accordion.wp-block-getwid-accordion .wp-block-getwid-accordion__header-wrapper:first-child a {
+  color: white;
+}
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-accordion.wp-block-getwid-accordion .wp-block-getwid-accordion__content {
+  background-color: #00ADEF;
+  color: #383841;
+  border: none;
+}
+.landing-page-full-width .entry-content .wp-block-group .wp-block-group__inner-container .lo-ra-2-col-form-text {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
