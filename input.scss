@@ -1,0 +1,106 @@
+.landing-page-full-width {
+    .entry-content {
+        .wp-block-group {
+            .wp-block-group__inner-container {
+                .wp-block-columns {
+                    margin-bottom: 0;
+                }
+                .lora-1-col-text {
+                    .wp-block-group__inner-container {
+                        padding: 3.250em;
+                    }
+                }
+                
+                .lo-ra-2-col-text-image,
+                .lo-ra-2-col-narrow-text-image,
+                .lo-ra-2-col-text-narrow-image {
+                    display: flex;
+                    align-items: stretch;
+                    
+                    .wp-block-column:first-child {
+                        padding: 6rem 0;
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        align-items: flex-start;
+                    }
+                    
+                    .wp-block-image {
+                        margin-bottom: 0;
+                        height: 100%;
+                        
+                        img {
+                            object-fit: cover;
+                            height: 100%;
+                            width: auto;
+                        }
+                    }
+                }
+                
+                .lo-ra-3-col-text {
+                    .wp-block-column {
+                        padding: 5.5rem 2rem 3rem;
+                    }
+                }
+                
+                .lo-ra-4-col-badges {
+                    .wp-block-column {
+                        padding: 4rem 1rem;
+                    }
+                }
+                
+                .lo-ra-simple-heading {
+                    padding-top: 4rem;
+                    padding-bottom: 4rem;
+                }
+                
+                .lo-ra-3-col-videos {
+                    padding-top: 3rem;
+                    padding-bottom: 3rem;
+                }
+                
+                .lo-ra-table {
+                    padding-top: 3rem;
+                    padding-bottom: 3rem;
+                    
+                    .tablepress {
+                        .row-1 {
+                            background-color: #00ADEF;
+                            color: white;
+                        }
+                    }
+                }
+                
+                .lo-ra-accordion {
+                    padding-top: 3rem;
+                    padding-bottom: 3rem;   
+                    
+                    &.wp-block-getwid-accordion {
+                        .wp-block-getwid-accordion__header-wrapper:first-child {
+                            background-color: #00ADEF;
+                            color: white;
+                            border: none;
+                            
+                            a {
+                                                           color: white;
+ 
+                            }
+                        }
+                        .wp-block-getwid-accordion__content {
+                            background-color: #00ADEF;
+                            color: #383841  ;
+                            border: none;
+                        }
+                    }
+
+                    
+                }
+                
+                .lo-ra-2-col-form-text {
+                    padding-top: 3rem;
+                    padding-bottom: 3rem;
+                }
+            }
+        }
+    }
+}
